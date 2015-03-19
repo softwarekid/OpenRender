@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wyGL", "wyGL\wyGL.vcxproj", "{A2CB3E2C-E48B-4EEC-902A-34C0FCABA60E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2CB3E2C-E48B-4EEC-902A-34C0FCABA60E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A2CB3E2C-E48B-4EEC-902A-34C0FCABA60E}.Debug|Win32.Build.0 = Debug|Win32
+		{A2CB3E2C-E48B-4EEC-902A-34C0FCABA60E}.Release|Win32.ActiveCfg = Release|Win32
+		{A2CB3E2C-E48B-4EEC-902A-34C0FCABA60E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
